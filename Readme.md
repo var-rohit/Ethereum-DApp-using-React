@@ -57,6 +57,13 @@ A step by step guide to get everything up and running.
 
 + Clone the repository and go inside the directory.
 
++ Run the command to install node modules inside the directory.
+
+```
+$ npm install
+
+```
+
 + Run Ganache.
    + Setup New Workspace by browsing truffle-config.js
 from the cloned directory.
@@ -66,6 +73,9 @@ from the cloned directory.
 
 
 ```
+
+$ truffle compile
+
 $ truffle migrate
 
 
