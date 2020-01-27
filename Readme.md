@@ -1,6 +1,6 @@
 # Social Network
 
-An ethereum smart contract decentralized application (DApp) which lets the user create posts and tip each one of them.The renderd output always keeps the most popular post with the highest tip amount on the top.
+An ethereum smart contract decentralized application (DApp) which lets the user create posts and tip each one of them.The rendered output always keeps the most popular post with the highest tip amount on the top.
 
 ## Getting Started
 
