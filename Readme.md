@@ -58,10 +58,11 @@ A step by step guide to get everything up and running.
 + Clone the repository and go inside the directory.
 
 + Run Ganache.
-1. Setup New Workspace by browsing truffle-config.js
+   + Setup New Workspace by browsing truffle-config.js
 from the cloned directory.
 
-2. Open Terminal.
+
++ Open Terminal.
 
 
 ```
@@ -70,11 +71,11 @@ $ truffle migrate
 
 ```
 
-3. Setup metamask in Google Chrome by importing few accounts from Ganache .
++ Setup metamask in Google Chrome by importing few accounts from Ganache .
 
-4. Go to Terminal.
++ Go to Terminal.
 
 ```
 $ npm start
 ```
-5. You will see the front end of the decentralized app up and running on your localhost.
++ You will see the front end of the decentralized app up and running on your localhost.
