@@ -2,6 +2,9 @@
 
 An ethereum smart contract decentralized application (DApp) which lets the user create social media posts and any viewer can give tip for it in cryptocurrency(ether).The rendered output always keeps the most popular post with the highest tip amount on the top.This platform will encourage the authors to write better posts as they receive recognition along with money and at the same time , viewers also a have good time reading better posts.
 
+![Screenshot from 2020-10-26 01-38-33](https://user-images.githubusercontent.com/59581067/97117794-126c0100-172c-11eb-98e8-f3fc3c8f9de9.png)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
